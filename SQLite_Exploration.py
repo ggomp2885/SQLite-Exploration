@@ -82,6 +82,5 @@ remove_emp(emp_1)
 print("employees with last name Doe (second time)")
 print(get_emps_by_name('Doe'))
 
-                        # SQLite3 teardown command
+                        # SQLite3 teardown command 
 conn.close()
-
